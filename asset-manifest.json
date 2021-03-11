@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Fortune/static/css/main.8f0044ca.chunk.css",
+    "main.js": "/Fortune/static/js/main.7af5764f.chunk.js",
+    "main.js.map": "/Fortune/static/js/main.7af5764f.chunk.js.map",
+    "runtime-main.js": "/Fortune/static/js/runtime-main.6e2ec589.js",
+    "runtime-main.js.map": "/Fortune/static/js/runtime-main.6e2ec589.js.map",
+    "static/js/2.5fa9f7d9.chunk.js": "/Fortune/static/js/2.5fa9f7d9.chunk.js",
+    "static/js/2.5fa9f7d9.chunk.js.map": "/Fortune/static/js/2.5fa9f7d9.chunk.js.map",
+    "index.html": "/Fortune/index.html",
+    "precache-manifest.c95f9f8489a668dd11729e163ffe9cde.js": "/Fortune/precache-manifest.c95f9f8489a668dd11729e163ffe9cde.js",
+    "service-worker.js": "/Fortune/service-worker.js",
+    "static/css/main.8f0044ca.chunk.css.map": "/Fortune/static/css/main.8f0044ca.chunk.css.map",
+    "static/media/CrossBoxs.css": "/Fortune/static/media/box5.eb37dc38.jpg",
+    "static/media/car4.jpg": "/Fortune/static/media/car4.981f29a4.jpg",
+    "static/media/car5.jpg": "/Fortune/static/media/car5.6ad44426.jpg",
+    "static/media/GalleryGrid.css": "/Fortune/static/media/grid6.2a05f59d.jpg",
+    "static/media/item1.jpg": "/Fortune/static/media/item1.9fbd79e6.jpg",
+    "static/media/LiveSection.css": "/Fortune/static/media/live.5832be9b.jpg",
+    "static/media/logo.png": "/Fortune/static/media/logo.ea3226d9.png",
+    "static/media/mastercard1.png": "/Fortune/static/media/mastercard1.dd761f6a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e2ec589.js",
+    "static/js/2.5fa9f7d9.chunk.js",
+    "static/css/main.8f0044ca.chunk.css",
+    "static/js/main.7af5764f.chunk.js"
+  ]
+}
