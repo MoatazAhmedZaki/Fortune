@@ -1,0 +1,8 @@
+.leftCarousel  img {min-height: 700px;}
+
+
+@media (max-width: 790px){
+    .leftCarousel  img {min-height: 440px;}
+  
+  }
+

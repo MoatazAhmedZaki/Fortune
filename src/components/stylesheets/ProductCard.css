@@ -1,0 +1,23 @@
+.cardbtn,
+.cardprice {
+  display: inline-block;
+}
+
+.cardinfo {
+  color: rgb(163, 162, 162);
+}
+
+.cardbtn {
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  font-weight: 500;
+  border: none;
+}
+.cardprice {
+  border: 2px solid black;
+  width: 70px;
+  color: #cc0226;
+  font-size: 18px;
+  font-weight: 500;
+}

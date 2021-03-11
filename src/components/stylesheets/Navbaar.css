@@ -1,0 +1,61 @@
+#basic-navbar-nav a {
+  color: black;
+  font-weight: 500;
+}
+
+.navbar-mastercard {
+  width: 75px;
+  
+  height: 50px; 
+}
+
+.navbar-egypt-flag {
+  width: 20px;
+  height: 20px;
+}
+
+.shoppingBtn {
+  background-color: black;
+  color: white;
+  position: relative;
+  border: none;
+}
+#mydrop .dropdown-menu {
+  min-height: auto !important;
+  left: 10px;
+}
+
+.number {
+  background-color: #cc0226;
+  color: white;
+  border: none;
+  position: absolute;
+  left: -10px;
+  top: 5px;
+  width: 20px;
+  height: 25px;
+  border-radius: 8px;
+}
+
+.loginBtn {
+  background-color: #cc0226;
+  color: white;
+  border: none;
+}
+.searchBtn {
+  background-color: #cc0226;
+  color: white;
+  border: none;
+}
+
+.searchBtn:hover,
+.loginBtn:hover {
+  background-color: black;
+}
+
+.shoppingBtn:hover .number {
+  background-color: black;
+}
+.shoppingBtn:hover {
+  background-color: #cc0226;
+}

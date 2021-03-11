@@ -1,0 +1,100 @@
+.box-img1 {
+  background-image: url("../../imgs/box5.jpg");
+  background-size: 100% 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+.box-500 {
+  height: 500px;
+}
+
+.box-500 img {
+  height: 300px;
+}
+
+.item-box {
+  position: relative;
+}
+
+.item-box-addbtn1 {
+  position: absolute;
+  top: 150px;
+  right: -40px;
+  background-color: #cc0226;
+  color: white;
+  border: none;
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  text-align: left;
+  padding: 20px;
+}
+
+
+.item-box-addbtn2 {
+  position: absolute;
+  top: 150px;
+  left: -40px;
+  background-color: #cc0226;
+  color: white;
+  border: none;
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  text-align: right;
+  padding: 20px;
+}
+
+
+@media (max-width: 790px){
+  .col-reverse{flex-direction: column-reverse;}
+
+}
+/* .row-reverse{flex-direction: column-reverse;} */
+
+
+.blackbtn {
+  background-color: black;
+  color: white;
+  border: none;
+}
+.blackbtn:hover {
+  background-color: #cc0226;
+  color: white;
+  border: none;
+}
+
+.box-img2{
+    background-image: url("../../imgs/box3.jpg");
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+  
+}
+
+.red-box-shadow {
+  -moz-box-shadow: inset 0 -45px 60px -20px #cc0226;
+  -webkit-box-shadow: inset 0 -45px 60px -20px #cc0226;
+  box-shadow: inset 0 -45px 60px -20px #cc0226;
+}
+
+.box-img1-info {
+  text-align: center;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  margin: auto;
+  color: white;
+}
+
+.box-img1-info p,
+.box-img1-info h5 {
+  font-weight: 300;
+}
+.box-img1-info h5 {
+  font-size: 50px;
+}
